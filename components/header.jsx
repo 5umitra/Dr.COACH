@@ -86,6 +86,8 @@ export default async function Header() {
             </DropdownMenu>
           </SignedIn>
 
+
+
           <SignedOut>
             <SignInButton>
               <Button variant="outline">Sign In</Button>
